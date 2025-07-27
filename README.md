@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Rego</h1>
-<h3 align="center">An aspiring reverse engineer with a passion for process manipulation and dynamic analysis.</h3>
+<h3 align="center">Just a curious mind who enjoys pushing my PC to its limits for fun</h3>
 
 - 📫 How to reach me **oscarrego789@gmail.com**
 
