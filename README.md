@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Rego</h1>
-<h3 align="center">Just a guy who likes to push his PC to its limits for Fun </h3>
+<h3 align="center">Enjoys experimenting with systems, code, and automation </h3>
 
 - 📫 How to reach me **oscarrego789@gmail.com**
 
