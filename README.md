@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oscar Rego</h1>
+<h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">Enjoys experimenting with systems, code, and automation </h3>
 
 - 📫 How to reach me **oscarrego789@gmail.com**
