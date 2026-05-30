@@ -18,7 +18,7 @@ Building AI-powered applications, automation tools, and modern web experiences.
 
 ## 🚀 About Me
 
-- 🎓 Master's in Computer Applications (MCA)
+- 🎓 Master's in Computer Applications
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 💻 Full Stack Developer
 - 🔍 Exploring Computer Vision & Automation
@@ -118,19 +118,6 @@ Building AI-powered applications, automation tools, and modern web experiences.
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AutoShooter Pro
-AI-powered vision automation tool built with Python, OpenCV, and multiprocessing.
-
-### 🛒 Electronic Gems
-Modern e-commerce platform with admin dashboard and product management.
-
-### 🌐 Portfolio Website
-Responsive portfolio website showcasing projects, skills, and achievements.
 
 ---
 
