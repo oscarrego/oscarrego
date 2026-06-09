@@ -12,7 +12,7 @@
 
 ## About Me
 
-I enjoy exploring how software systems work — from application development and automation to computer vision, databases, deployment workflows, and user experience.
+I enjoy exploring how software systems work from application development and automation to computer vision, databases, deployment workflows, and user experience.
 
 My primary focus is building efficient software solutions while continuously learning new technologies and engineering practices.
 
