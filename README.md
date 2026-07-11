@@ -1,6 +1,7 @@
 <div align="center">
 
-## Oscar Rego
+# Oscar Rego
+---
 
 ### Software Developer • Computer Vision Enthusiast • Full Stack Learner
 
