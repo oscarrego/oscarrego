@@ -52,7 +52,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark"/>
 
 </div>
-
 ---
 
 # GitHub Analytics
@@ -61,10 +60,17 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=oscarrego&theme=transparent&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=oscarrego&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
 
 </div>
 
+<br>
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarrego&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+
+</div>
 
 ---
 
