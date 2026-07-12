@@ -95,20 +95,9 @@
 
 ---
 
-# Contribution Snake
 
-<div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oscarrego/oscarrego/output/github-contribution-grid-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/oscarrego/oscarrego/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
-</div>
-
----
-
-# Visitor Counter
 
 <div align="center">
 
@@ -116,26 +105,6 @@
 
 </div>
 
----
 
-# Connect
 
-<div align="center">
 
-<a href="mailto:oscarrego789@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/oscarrego">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:111111&height=120&section=footer"/>
-
-</div>
