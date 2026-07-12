@@ -65,13 +65,7 @@
 
 </div>
 
-<br>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarrego&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
-
-</div>
 
 ---
 
