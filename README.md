@@ -65,15 +65,7 @@ My primary focus is building efficient software solutions while continuously lea
 
 ---
 
-## Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarrego&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 ## Development Activity
 
