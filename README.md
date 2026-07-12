@@ -6,7 +6,7 @@
 
 ### Software Developer • Computer Vision • Full Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Software+Development;Computer+Vision+%26+Artificial+Intelligence;Automation+Systems;Full+Stack+Development;Building+Software+That+Solves+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Software+Development;Computer+Vision+with+Artificial+Intelligence;Automation+Systems;Full+Stack+Development;Building+Software+That+Solves+Problems" />
 
 <br>
 
